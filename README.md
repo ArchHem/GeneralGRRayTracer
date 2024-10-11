@@ -12,6 +12,15 @@ Semi-transparent accreation disc of a Schwarschild blackhole:
 
 ![sch_test](https://github.com/ArchHem/GeneralGRRayTracer/blob/main/renders/test7.png)
 
+Schawrschild blackhole in a celestial sphere texture:
+
+![sch_cs](https://github.com/ArchHem/GeneralGRRayTracer/blob/main/renders/newgen_sch.png)
+
+Kerr semi-transparent accreration disc:
+
+![kerr_test](https://github.com/ArchHem/GeneralGRRayTracer/blob/main/renders/kerr_test1.png)
+
+
 
 
 
