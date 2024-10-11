@@ -10,7 +10,7 @@ The raycaster has limited ability of rendering analytic surfaces thru the SciML 
 
 Semi-transparent accreation disc of a Schwarschild blackhole:
 
-[sch_test](https://github.com/ArchHem/GeneralGRRayTracer/blob/main/renders/test7.png)
+![sch_test](https://github.com/ArchHem/GeneralGRRayTracer/blob/main/renders/test7.png)
 
 
 
